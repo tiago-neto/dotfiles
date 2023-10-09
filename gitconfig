@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tiagocastroneto@yahoo.com
+	name = Tiago Neto
